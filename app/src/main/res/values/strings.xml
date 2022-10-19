@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 14 Graph</string>
+    <string name="btn_AdditionNode">Add</string>
+    <string name="btn_CaptionNode">Caption node</string>
+    <string name="btn_DeleteNode">Del</string>
+    <string name="btn_AdditionLink">Add Link</string>
+    <string name="btn_CaptionLink">Caption link</string>
+    <string name="btn_DeleteLink">Del Link</string>
+    <string name="tv_CationNode">Caption:</string>
+    <string name="tv_CaptionLink">Link value:</string>
+    <string name="tv_Graphs">Your graphs</string>
+    <string name="tv_NewGraphsName">New graph name:</string>
+    <string-array name="typeLink">
+        <item>Undirected link</item>
+        <item>Directed A to B</item>
+        <item>Directed B to A</item>
+        <item>Directed in all dimensions</item>
+    </string-array>
+</resources>

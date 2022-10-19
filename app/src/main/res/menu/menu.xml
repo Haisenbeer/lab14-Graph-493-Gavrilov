@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_graph"
+        android:orderInCategory="1"
+        android:title="New graph" />
+    <item
+        android:id="@+id/save_graph"
+        android:orderInCategory="2"
+        android:title="Save graph" />
+    <item
+        android:id="@+id/load_graph"
+        android:orderInCategory="3"
+        android:title="Load graph" />
+    <item
+        android:id="@+id/copy_graph"
+        android:orderInCategory="4"
+        android:title="Copy graph" />
+    <item
+        android:id="@+id/rename_graph"
+        android:orderInCategory="5"
+        android:title="Rename graph" />
+    <item
+        android:id="@+id/delete_graph"
+        android:orderInCategory="6"
+        android:title="Delete graph" />
+</menu>
